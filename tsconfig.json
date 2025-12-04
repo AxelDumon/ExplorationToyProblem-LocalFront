@@ -10,12 +10,6 @@
     "skipLibCheck": true,
     "outDir": "build",
     /* Bundler mode */
-<<<<<<< HEAD:public/tsconfig.json
-=======
-    "moduleResolution": "node",
-    // "allowImportingTsExtensions": true,
-    // "rewriteRelativeImportExtensions": true,
->>>>>>> CouchDB:tsconfig.json
     "isolatedModules": true,
     // "moduleDetection": "force",
     "noEmit": true,
@@ -25,10 +19,6 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-<<<<<<< HEAD:public/tsconfig.json
-=======
-    // "noUncheckedSideEffectImports": true
->>>>>>> CouchDB:tsconfig.json
   },
   "include": ["src"]
 }
